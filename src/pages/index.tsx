@@ -26,9 +26,6 @@ export default function Home() {
           height={38}
           priority
         />
-        <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full" onClick={() => { }}>
-          Button
-        </button>
         <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full" onClick={() => { console.log("Login clicked") }}>
           Login
         </button>
