@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/ryanf10/conventional-commit/compare/v1.0.0...v1.1.0) (2025-05-25)
+
+
+### Bug Fixes
+
+* crash on button click ([1a9dd81](https://github.com/ryanf10/conventional-commit/commit/1a9dd812dab7640cb24d433a20833470d8611149))
+
+
+### Features
+
+* revamp homepage ([ab5adbd](https://github.com/ryanf10/conventional-commit/commit/ab5adbdafdbfe36c9b77f225a1dd6abdd468b291))
+
 # 1.0.0 (2025-05-25)
 
 
