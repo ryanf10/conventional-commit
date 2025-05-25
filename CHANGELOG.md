@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/ryanf10/conventional-commit/compare/v1.1.0...v1.2.0) (2025-05-25)
+
+
+### Features
+
+* revamp button ([82fa3ee](https://github.com/ryanf10/conventional-commit/commit/82fa3ee2a6eccbd965659b48e8e8592b7f7ee0d2))
+
 # [1.1.0](https://github.com/ryanf10/conventional-commit/compare/v1.0.0...v1.1.0) (2025-05-25)
 
 
