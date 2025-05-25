@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/ryanf10/conventional-commit/compare/v1.2.0...v1.3.0) (2025-05-25)
+
+
+### Features
+
+* remove carousel section ([9845452](https://github.com/ryanf10/conventional-commit/commit/9845452ddc656542a8f3524d6f4e4bfc07a9b28e))
+
 # [1.2.0](https://github.com/ryanf10/conventional-commit/compare/v1.1.0...v1.2.0) (2025-05-25)
 
 
